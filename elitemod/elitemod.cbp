@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="elitemod" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/elitemod" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../botai/ai_chat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_chat.h" />
+		<Unit filename="../botai/ai_cmd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_cmd.h" />
+		<Unit filename="../botai/ai_dmnet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_dmnet.h" />
+		<Unit filename="../botai/ai_dmq3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_dmq3.h" />
+		<Unit filename="../botai/ai_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_main.h" />
+		<Unit filename="../botai/ai_team.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../botai/ai_team.h" />
+		<Unit filename="../botai/botai.h" />
+		<Unit filename="../botai/chars.h" />
+		<Unit filename="../botai/inv.h" />
+		<Unit filename="../botai/match.h" />
+		<Unit filename="../botai/syn.h" />
+		<Unit filename="../cgame/cg_consolecmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_draw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_drawtools.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_effects.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_ents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_event.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_flamethrower.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_info.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_local.h" />
+		<Unit filename="../cgame/cg_localents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_marks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_newDraw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_particles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_players.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_playerstate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_predict.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_public.h" />
+		<Unit filename="../cgame/cg_scoreboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_servercmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_snapshot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_sound.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_spawn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_syscalls.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_trails.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_view.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_weapons.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/cg_window.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cgame/tr_types.h" />
+		<Unit filename="../game/ai_cast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast.h" />
+		<Unit filename="../game/ai_cast_characters.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_events.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_fight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_fight.h" />
+		<Unit filename="../game/ai_cast_func_attack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_func_boss1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_funcs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_global.h" />
+		<Unit filename="../game/ai_cast_script.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_script_actions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_script_ents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_sight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/ai_cast_think.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/be_aas.h" />
+		<Unit filename="../game/be_ai_char.h" />
+		<Unit filename="../game/be_ai_chat.h" />
+		<Unit filename="../game/be_ai_gen.h" />
+		<Unit filename="../game/be_ai_goal.h" />
+		<Unit filename="../game/be_ai_move.h" />
+		<Unit filename="../game/be_ai_weap.h" />
+		<Unit filename="../game/be_ea.h" />
+		<Unit filename="../game/bg_animation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/bg_local.h" />
+		<Unit filename="../game/bg_misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/bg_pmove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/bg_public.h" />
+		<Unit filename="../game/bg_slidemove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/bg_stats.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/botlib.h" />
+		<Unit filename="../game/g_active.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_admin.h" />
+		<Unit filename="../game/g_admin_bot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_alarm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_antilag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_bot.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_cmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_combat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_items.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_local.h" />
+		<Unit filename="../game/g_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_match.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_mem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_missile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_mover.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_players.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_props.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_public.h" />
+		<Unit filename="../game/g_save.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_script.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_script_actions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_session.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_shared.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_shared.h" />
+		<Unit filename="../game/g_spawn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_stats.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_stats.h" />
+		<Unit filename="../game/g_svcmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_syscalls.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_target.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_team.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_team.h" />
+		<Unit filename="../game/g_tramcar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_trigger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_vehicles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/g_weapon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/q_math.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/q_shared.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../game/q_shared.h" />
+		<Unit filename="../game/surfaceflags.h" />
+		<Unit filename="../ui/keycodes.h" />
+		<Unit filename="../ui/ui_atoms.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_gameinfo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_local.h" />
+		<Unit filename="../ui/ui_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_players.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_public.h" />
+		<Unit filename="../ui/ui_shared.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_shared.h" />
+		<Unit filename="../ui/ui_syscalls.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../ui/ui_util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

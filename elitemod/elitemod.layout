@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../game/g_script_actions.c" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40012" topLine="1438" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_flamethrower.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23850" topLine="766" />
+		</Cursor>
+	</File>
+	<File name="../game/g_session.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10465" topLine="351" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_consolecmds.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14238" topLine="534" />
+		</Cursor>
+	</File>
+	<File name="../botai/ai_dmnet.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30098" topLine="916" />
+		</Cursor>
+	</File>
+	<File name="../ui/ui_local.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14418" topLine="541" />
+		</Cursor>
+	</File>
+	<File name="../game/g_team.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46538" topLine="1708" />
+		</Cursor>
+	</File>
+	<File name="../game/g_main.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9042" topLine="226" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_drawtools.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10621" topLine="320" />
+		</Cursor>
+	</File>
+	<File name="../game/ai_cast.c" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21029" topLine="727" />
+		</Cursor>
+	</File>
+	<File name="../game/ai_cast_func_boss1.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7865" topLine="218" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_event.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4283" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="../game/g_match.c" open="0" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3272" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="../game/g_combat.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15974" topLine="558" />
+		</Cursor>
+	</File>
+	<File name="../game/bg_public.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3383" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_predict.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18466" topLine="630" />
+		</Cursor>
+	</File>
+	<File name="../game/g_local.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46261" topLine="1454" />
+		</Cursor>
+	</File>
+	<File name="../game/g_weapon.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10477" topLine="354" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20078" topLine="532" />
+		</Cursor>
+	</File>
+	<File name="../game/q_shared.h" open="0" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="52578" topLine="1606" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_newDraw.c" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46218" topLine="1735" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_ents.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45253" topLine="1573" />
+		</Cursor>
+	</File>
+	<File name="../game/g_client.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45197" topLine="1589" />
+		</Cursor>
+	</File>
+	<File name="../botai/ai_chat.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15959" topLine="623" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_scoreboard.c" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4348" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_draw.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="73584" topLine="2913" />
+		</Cursor>
+	</File>
+	<File name="../game/g_admin.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1950" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="../game/g_admin.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29534" topLine="1079" />
+		</Cursor>
+	</File>
+	<File name="../game/bg_pmove.c" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97279" topLine="3847" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_local.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="55944" topLine="1963" />
+		</Cursor>
+	</File>
+	<File name="../game/g_svcmds.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13718" topLine="589" />
+		</Cursor>
+	</File>
+	<File name="../ui/ui_gameinfo.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6695" topLine="218" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_view.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30538" topLine="1118" />
+		</Cursor>
+	</File>
+	<File name="../game/g_shared.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1861" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_playerstate.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17553" topLine="562" />
+		</Cursor>
+	</File>
+	<File name="../game/g_cmds.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11971" topLine="511" />
+		</Cursor>
+	</File>
+	<File name="../ui/ui_main.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132007" topLine="4509" />
+		</Cursor>
+	</File>
+	<File name="../botai/ai_cmd.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20944" topLine="778" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_weapons.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="127738" topLine="4571" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_effects.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21152" topLine="791" />
+		</Cursor>
+	</File>
+	<File name="../botai/ai_dmq3.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83294" topLine="2768" />
+		</Cursor>
+	</File>
+	<File name="../ui/ui_shared.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96204" topLine="3533" />
+		</Cursor>
+	</File>
+	<File name="../ui/ui_players.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22781" topLine="924" />
+		</Cursor>
+	</File>
+	<File name="../game/g_stats.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17364" topLine="535" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_servercmds.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45572" topLine="1615" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_localents.c" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12424" topLine="440" />
+		</Cursor>
+	</File>
+	<File name="../game/g_spawn.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="28164" topLine="996" />
+		</Cursor>
+	</File>
+	<File name="../game/g_players.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18467" topLine="560" />
+		</Cursor>
+	</File>
+	<File name="../game/g_active.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39786" topLine="1377" />
+		</Cursor>
+	</File>
+	<File name="../cgame/cg_syscalls.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10014" topLine="275" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

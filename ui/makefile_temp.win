@@ -1,0 +1,19 @@
+CC = i686-w64-mingw32-gcc
+CFLAGS = -DWIN32 -D_WINDOWS -D_MBCS -D_USRDLL -DUI_EXPORTS -DC_ONLY
+
+SOURCES = $(shell ls ui_*.c ../game/bg_misc.c ../game/q_math.c ../game/q_shared.c)
+MODULES = $(SOURCES:.c=.o)
+
+all: gameclean ui_mp_x86.dll
+
+gameclean:
+	rm -rf ../game/*.o
+
+ui_mp_x86.dll: $(MODULES)
+	$(CC) -shared -lm -o $@ $?
+
+.c.o:
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	rm -f *.o *.dll

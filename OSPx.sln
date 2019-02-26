@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cgame", "cgame\cgame.vcxproj", "{A16F9DCF-7F32-43AB-A044-74B7C660FC9B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game\game.vcxproj", "{47A33A98-87A5-4071-8608-3E6BC9EEC29E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ui", "ui\ui.vcxproj", "{64DCBC13-78A6-43E9-931D-B63FBB0421C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{658AD05D-C023-4D57-BA00-3E55E8A4D730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{0BB35AB4-4AF5-4C3F-87FD-F6DFB6BE228E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16F9DCF-7F32-43AB-A044-74B7C660FC9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A16F9DCF-7F32-43AB-A044-74B7C660FC9B}.Debug|Win32.Build.0 = Debug|Win32
+		{A16F9DCF-7F32-43AB-A044-74B7C660FC9B}.Release|Win32.ActiveCfg = Release|Win32
+		{A16F9DCF-7F32-43AB-A044-74B7C660FC9B}.Release|Win32.Build.0 = Release|Win32
+		{47A33A98-87A5-4071-8608-3E6BC9EEC29E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47A33A98-87A5-4071-8608-3E6BC9EEC29E}.Debug|Win32.Build.0 = Debug|Win32
+		{47A33A98-87A5-4071-8608-3E6BC9EEC29E}.Release|Win32.ActiveCfg = Release|Win32
+		{47A33A98-87A5-4071-8608-3E6BC9EEC29E}.Release|Win32.Build.0 = Release|Win32
+		{64DCBC13-78A6-43E9-931D-B63FBB0421C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64DCBC13-78A6-43E9-931D-B63FBB0421C7}.Debug|Win32.Build.0 = Debug|Win32
+		{64DCBC13-78A6-43E9-931D-B63FBB0421C7}.Release|Win32.ActiveCfg = Release|Win32
+		{64DCBC13-78A6-43E9-931D-B63FBB0421C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47A33A98-87A5-4071-8608-3E6BC9EEC29E} = {658AD05D-C023-4D57-BA00-3E55E8A4D730}
+		{A16F9DCF-7F32-43AB-A044-74B7C660FC9B} = {0BB35AB4-4AF5-4C3F-87FD-F6DFB6BE228E}
+		{64DCBC13-78A6-43E9-931D-B63FBB0421C7} = {0BB35AB4-4AF5-4C3F-87FD-F6DFB6BE228E}
+	EndGlobalSection
+EndGlobal
