@@ -1,0 +1,875 @@
+logfile opened on Thu Nov 14 18:41:29 2019
+
+...detecting CPU, found Intel Pentium III
+Bypassing CD checks
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:27960
+Hostname: MIKE-MBP-WIN10
+IP: 192.168.1.76
+Working directory: C:\Users\Michael\Documents\GitHub\wolfpro
+execing server.cfg
+execing mod.cfg
+------ Server Initialization ------
+Server: mp_beach
+Hunk_Clear: reset the hunk ok
+
+================
+MAIN log
+================
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2697 (sizeof( searchpath_t )) [__________|_]
+size =      512: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2698 (sizeof( *search->dir )) [C:\Users\Michael\Doc]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2697 (sizeof( searchpath_t )) [_a~_____4~}_]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [_P__________________]
+size =      835: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__|_E_________|_____]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__|___|_____]
+size =      928: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [hT__c___________b___]
+size =     4626: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__|__M|_______|__M|_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [l_|_D_|_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [_Q__________________]
+size =    34556: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__}___________}_____]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__|___}_____]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [(Q__4___________3___]
+size =      512: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2698 (sizeof( *search->dir )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____`_______________]
+size =     4896: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =    12483: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [t_}___C_______}___C_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [X}}___}_____]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [_Q__________________]
+size =       84: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__}___________}_____]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__}_|_}_____]
+size =      816: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =     2848: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [`R__L___________K___]
+size =     2767: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [h_}_a[______z_}__[__]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [H_}_(_}_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [_R__________________]
+size =      139: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [T_}_1_______g_}_q___]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__}___}_____]
+size =      832: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____M___________L___]
+size =     2915: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__}_=w________}_zw__]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__}___~_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____________________]
+size =      745: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__~__(5_______~__(5_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__~___~_____]
+size =      928: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [(___"___________!___]
+size =     1212: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__~_ym9_______~__m9_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__~___~_____]
+size =     1056: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____/___________.___]
+size =     1731: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [__~___p_______~___p_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__~_D#~_____]
+size =     1056: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____S___________R___]
+size =     3282: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [_,~_Wf______(,~__f__]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [`"~__6~_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [`___4___________3___]
+size =     1908: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [_?~___p______?~___p_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [05~_(E~_____]
+size =     1056: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [____#___________"___]
+size =     1205: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [_K~_#_1______K~_\_1_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [0D~__O~_____]
+size =     1056: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =      128: c:\users\michael\documents\github\wolfpro\qcommon\unzip.c, line: 1423 (sizeof(unz_s)) [P___Q___________P___]
+size =     3379: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [hX~_________mX~_-___]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [_N~_dc~_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+size =     3371: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1918 (( gi.number_entry * sizeof( fileInPack_t ) ) + len) [,m~_p_%_____=m~___%_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 2745 (sizeof( searchpath_t )) [__|__w~_____]
+size =     1312: c:\users\michael\documents\github\wolfpro\qcommon\files.c, line: 1930 (sizeof( pack_t ) + i * sizeof( fileInPack_t * )) [C:\Users\Michael\Doc]
+103600 MAIN memory in 68 blocks
+1730 MAIN memory overhead
+
+================
+SMALL log
+================
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_cheats_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [______s_ !B_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [toggle_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [4Wt_`_s___B_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [set_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [,_s___s___B_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sets_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_$_s___B_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [setu_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s___B_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [seta_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s___B_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [reset_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_P_s___B_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cvarlist_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s_@_B_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cvar_restart_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [devdll_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_zoneMegs_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [16_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [16_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s___@_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cmdlist_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_H_s_p_@_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [exec_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s___@_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vstr_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [x_s___s___@_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [echo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_t_s_ _@_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wait_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_game_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wolfpro_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wolfpro_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_debug_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_copyfiles_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_cdpath_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_basepath_]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [C:\Users\Michael\Doc]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [C:\Users\Michael\Doc]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_basegame_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_homepath_]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [C:\Users\Michael\Doc]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [C:\Users\Michael\Doc]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fs_restrict_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [@_s_(_s_P[B_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [path_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s___s_`0B_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [dir_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [X_s___s_PYB_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fdir_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_P_s__zB_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [touchFile_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [journal_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [team_commands_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_duelAutoPause_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_lifeStats_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_autoIgnore_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_censorPenalty_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_maxPingHits_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_MaxPingFlux_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_minLowScore_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_maxTeamBleed_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_maxTeamKills_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sab_system_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [TXThandle_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_privateServer_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_bannedMSG_]
+size =       37: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [You are ^3Banned ^7f]
+size =       37: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [You are ^3Banned ^7f]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_excludedRoundStats]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20,6_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20,6_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_roundStats_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_mapStatsWarmupOnly]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_mapStatsNotify_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_mapStats_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_showLastBlood_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_showFirstBlood_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_showFirstHeadshot_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_killerSpree_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_deathSprees_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_killingSprees_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_doubleKills_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_screenShake_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_serverMessage_]
+size =       28: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^0RtcwPro-OSPx ^7FRA]
+size =       28: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^0RtcwPro-OSPx ^7FRA]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motdTime_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [320_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [320_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd12_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd11_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd10_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd9_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd8_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd7_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd6_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd5_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd4_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd3_]
+size =        2: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [ _]
+size =        2: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [ _]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd2_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd1_]
+size =       83: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [please remember to u]
+size =       83: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [please remember to u]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_showMOTD_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_autoIgnore_]
+size =       29: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_censorPentalityTe]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_censorPenalty_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_maxPingHits_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_maxPingFlux_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [999_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [999_]
+size =       26: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_minLowScoreTempba]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_minLowScore_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-10_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-10_]
+size =       27: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_maxTeamBleedTempb]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_maxTeamBleed_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [100_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [100_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_makTKsTempbanMins]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_maxTKs_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_tempbanIP_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sb_system_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dropBinocs_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_ammoGivesHelmet_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_goomba_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowGiveAmmo_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_headshotsOnly_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_alliedASdelayFFE_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_alliedASdelay_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_axisASdelayFFE_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_axisASdelay_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_reportSpies_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_enableSpies_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_LTinfoMsg_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_panzerArc_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dropObj_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_fastStabSound_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_showLifeStats_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_tapReports_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_gibReports_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_poison_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_shoveAmount_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_shove_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dragBodies_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_chicken_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_disableInv_]
+size =       28: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_alliedSpawnProtect]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [3000_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [3000_]
+size =       26: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_axisSpawnProtectio]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [3000_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [3000_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_smokeGrenadesLmt_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_smokeGrenades_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_knifeDamageRand_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_knifeDamage_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_throwKnives_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dropAmmo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dropNades_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_dropHealth_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balanceFlamer_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balanceVenom_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balanceSniper_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balancePF_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxTeamFlamer_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxTeamVenom_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxTeamSniper_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxTeamPF_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_pistolClips_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_leutClips_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_soldierClips_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_engineerClips_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_medicClips_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_engNades_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_soldNades_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_medicNades_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_ltNades_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_hitsounds_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_easyASBlock_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_bunnyJump_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_staminaBoost_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_warmupDamage_]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balanceFlagCanClai]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_balanceFlagRetake_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_flagRetake_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_unlockWeapons_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_antiWarp_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_spectatorAllowDemo]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_spectatorInactivit]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_handleLateJoiners_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowLateJoiners_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_printMatchInfo_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_disallowedVotes_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [headshotsOnly_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [headshotsOnly_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_teamAutoBalance_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowPMs_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_ignoreSpecs_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_inactivityToSpecs_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_mapConfigs_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_autoSwapRounds_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_autoSwap_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_shortcuts_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_noHardcodedCensor_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_disallowedNames_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_censorWords_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bannedMSG_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [You are ^1Banned^7!_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [You are ^1Banned^7!_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [IP_handling_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_voteDelay_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxVotes_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_tournament_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [adm_help_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_medicChargeTime_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [45000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [45000_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_engineerChargeTime]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30000_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_LTChargeTime_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [40000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [40000_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_soldierChargeTime_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20000_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_forcerespawn_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_inactivity_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_doWarmup_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_autoshuffle_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_debugBullets_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_muting_]
+size =       25: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_balancedt]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_antilag_]
+size =       24: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_warmupdam]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_timelimit]
+size =       24: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_friendlyf]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_swapteams]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_referee_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_pub_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_nextmap_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_mutespecs]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_matchrese]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_map_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_kick_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_gametype_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_allow_comp_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_custommgs_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowVote_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_needpass_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [refereePassword_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [iamref_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [iamref_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_soundMegs_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [32_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [32_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_minrate_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [12000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [12000_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_punkbuster_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [server_autoconfig_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_userTimeLimit_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [10_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_master1_]
+size =       23: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [dpmaster.deathmask.n]
+size =       24: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_userAlliedRespawnT]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_timeout_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [240_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [rconPassword_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [iamrcon_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [iamrcon_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_privateClients_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_gametype_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [logfile_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_pure_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [URL_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_enforcemaxlives_]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_voiceChatsAllowed_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_motd_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [TIME TO FRAG!_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [TIME TO FRAG!_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_filterBan_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_banIPs_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_logSync_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_log_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [logs/games.log_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [logs/games.log_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_warmup_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [15_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [15_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_teamForceBalance_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [capturelimit_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxGameClients_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_screenshake_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cm_playerCurveClip_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_maxclients_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [timelimit_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [25_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fraglimit_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [dmflags_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_socksPassword_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_socksUsername_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_socksPort_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [1080_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [1080_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_socksServer_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_socksEnabled_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_noipx_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_noudp_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [r_highQualityVideo_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_dl_maxRate_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [42000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [42000_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_antilag_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_voteFlags_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [255_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [255_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_fastResMsec_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [1000_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [1000_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_fastres_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_complaintlimit_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_altStopwatchMode_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_lanForceRate_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_master5_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_master4_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_master3_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_master2_]
+size =       23: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wolfmaster.s4ndmod.c]
+size =       23: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wolfmaster.s4ndmod.c]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_allowDownload_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_noTeamSwitching_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_maxlives_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_friendlyFire_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_floodProtect_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_maxPing_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_minPing_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_maxRate_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [25000_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_ip_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_hostname_]
+size =       28: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [RtcwPro-OSPx Testing]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [WolfHost_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vm_ui_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vm_game_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vm_cgame_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_recommendedSet_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_introplayed_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_blood_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_maxfps_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [85_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [85_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_hunkMegs_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [196_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [56_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_redlimbotime_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [40000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [40000_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_bluelimbotime_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30000_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [30000_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a1_pass_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [rageisfat_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [rageisfat_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a2_pass_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a3_pass_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a4_pass_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [none_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a5_pass_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [rageisreallyfat_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [rageisreallyfat_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a1_tag_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^1Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^1Admin_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a2_tag_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^2Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^2Admin_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a3_tag_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^3Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^3Admin_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a4_tag_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^4Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^4Admin_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a5_tag_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^1Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [^1Admin_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a1_cmds_]
+size =      133: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [slap specs axis alli]
+size =      133: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [slap specs axis alli]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a2_cmds_]
+size =      165: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =      165: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a3_cmds_]
+size =      175: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =      175: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a4_cmds_]
+size =      193: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =      193: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick clientlick slap]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a5_cmds_]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowVote g_ignore]
+size =       42: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowVote g_ignore]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [a5_allowAll_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_extendedLog_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_allowSoftKill_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_fixedphysics_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_limit_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vote_percent_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [50_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [50_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [team_nocontrols_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [32_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [dedicated_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_hunkused_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [__s_$Ct_0_A_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [meminfo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Bt__Ct___B_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [zonelog_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [TCt__Ct_0_A_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [hunklog_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ct_PDt___A_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [hunksmalllog_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [developer_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [timescale_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [fixedtime_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_showtrace_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_dropsim_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [viewlog_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_speeds_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [timedemo_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_cameraMode_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cl_paused_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_paused_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_running_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [cl_running_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_buildScript_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [com_noErrorInterrupt]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Dt__Gt_0_A_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [quit_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Gt_@Ht___B_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [changeVectors_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ht__Ht___A_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [writeconfig_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [version_]
+size =       40: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Wolf 1.41b-MP win-x8]
+size =       40: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Wolf 1.41b-MP win-x8]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [xHt__It___D_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [in_restart_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_It_LJt_P_D_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_restart_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [arch_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [winnt_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [winnt_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [win_hinstance_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [4194304_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [4194304_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [win_wndproc_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [4516288_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [4516288_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sys_cpustring_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Mod_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [detect_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Intel Pentium III_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sys_cpuid_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [35_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [35_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [username_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Michael_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Michael_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [showpackets_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [showdrop_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_qport_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [62398_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [62398_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Jt_`Ot_@VC_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vmprofile_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [,Ot__Ot_0UC_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [vminfo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ot_,Pt_ _C_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [heartbeat_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ot__Pt___C_]
+size =        5: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [kick_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [`Pt__Pt_ _C_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [banUser_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Pt_\Qt___C_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [banClient_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [(Qt__Qt_@_C_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [clientkick_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Qt_,Rt___C_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [status_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Qt__Rt_`_C_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [serverinfo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [\Rt__Rt_ _C_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [systeminfo_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Rt_`St_P_C_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [dumpuser_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [,St__St___C_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [map_restart_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_St_0Tt_p_D_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sectorlist_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [T_s__Tt___C_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [map_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_St__Tt___C_]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [gameCompleteStatus_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Tt_hUt___C_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [devmap_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [4Ut__Ut___C_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [spmap_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ut_0Vt___C_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [spdevmap_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Ut__Vt___C_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [loadgame_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [dVt__Wt___C_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [killserver_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\cmd.c, line: 562 (sizeof( cmd_function_t )) [_Vt_hWt___C_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [say_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_gameskill_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_keywords_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [protocol_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [60_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [60_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [mapname_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [nomap_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [nomap_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_allowAnonymous_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_serverid_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_paks_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_pakNames_]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_referencedPaks_]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_referencedPakName]
+size =       19: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_privatePassword_]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_fps_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [20_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_zombietime_]
+size =        8: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [nextmap_]
+size =       26: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [wolfmaster.idsoftwar]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_reconnectlimit_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_showloss_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_padPackets_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_killserver_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_mapChecksum_]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_onlyVisibleClient]
+size =       18: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [sv_showAverageBPS_]
+size =       22: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_userAxisRespawnTim]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_minGameClients_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [gamestate_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =        3: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [-1_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_currentRound_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_nextTimeLimit_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_axismaxlives_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [g_alliedmaxlives_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_enable_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_developer_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_debug_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_groundonly_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_reachability_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_thinktime_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [100_]
+size =        4: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [100_]
+size =       21: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_reloadcharacters]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_testichat_]
+size =       14: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_testrchat_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_fastchat_]
+size =       11: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_nochat_]
+size =       12: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_grapple_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_rocketjump_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [bot_miniplayers_]
+size =       15: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [r_uiFullScreen_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [localhost_]
+size =       10: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [localhost_]
+size =        9: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [net_port_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [27960_]
+size =        6: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [27960_]
+size =       25: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [master.gamespy.com:2]
+size =       20: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [master0.gamespy.com_]
+size =       16: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [clanservers.net_]
+size =       30: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Server running ^7Rtc]
+size =       30: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Server running ^7Rtc]
+size =        7: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [Client_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [RtcwPro-OSPx_]
+size =       13: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [RtcwPro-OSPx_]
+size =       17: c:\users\michael\documents\github\wolfpro\qcommon\common.c, line: 1145 (strlen( in ) + 1) [savegame_loading_]
+24308 SMALL memory in 614 blocks
+15560 SMALL memory overhead
+Current search path:
+C:\Users\Michael\Documents\GitHub\wolfpro\wolfpro\wolfpro-b1.pk3 (96 files)
+C:\Users\Michael\Documents\GitHub\wolfpro/wolfpro
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps6.pk3 (81 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps5.pk3 (35 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps4.pk3 (52 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps3.pk3 (83 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps2.pk3 (47 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps1.pk3 (34 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pakmaps0.pk3 (21 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak5.pk3 (77 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak4.pk3 (5 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak3.pk3 (76 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak2.pk3 (3 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak1.pk3 (308 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mp_pak0.pk3 (783 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\te_frostbite.pk3 (99 files)
+C:\Users\Michael\Documents\GitHub\wolfpro\main\mml_headshot.pk3 (20 files)
+C:\Users\Michael\Documents\GitHub\wolfpro/main
+
+handle 1: rtcwconsole.log
+----------------------
+3640 files in pk3 files
+------- Game Initialization -------
+gamename: EliteMod x1.0 beta
+gamedate: Nov  5 2019
+------------------------------------------------------------
+InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\25\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+Gametype changed, clearing session data.
+func_timer at (3244 2212 1384) has random >= wait
+0 teams with 0 entities
+24 items registered
+-----------------------------------
+broadcast: print "Server: timelimit changed to 10\n"
+-----------------------------------
+Resolving dpmaster.deathmask.net
+dpmaster.deathmask.net resolved to 107.161.23.68:27950
+Sending heartbeat to dpmaster.deathmask.net
+Resolving wolfmaster.s4ndmod.com
+wolfmaster.s4ndmod.com resolved to 192.241.238.177:27950
+Sending heartbeat to wolfmaster.s4ndmod.com
+Resolving master.gamespy.com:27900
+master.gamespy.com:27900 resolved to 23.202.231.169:27950
+Sending heartbeat to master.gamespy.com:27900
+Resolving master0.gamespy.com
+master0.gamespy.com resolved to 23.202.231.169:27950
+Sending heartbeat to master0.gamespy.com
+Resolving clanservers.net
+clanservers.net resolved to 23.217.138.110:27950
+Sending heartbeat to clanservers.net
+Hitch warning: 812 msec frame time
+Client 0 connecting with 100 challenge ping
+ClientConnect: 0
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+Sending heartbeat to dpmaster.deathmask.net
+Sending heartbeat to wolfmaster.s4ndmod.com
+Sending heartbeat to master.gamespy.com:27900
+Sending heartbeat to master0.gamespy.com
+Sending heartbeat to clanservers.net
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 0
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 0
+Client 1 connecting with 50 challenge ping
+ClientConnect: 1
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 1
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 1
+sayteam: KrAzYkAz^1E: ^0Engineer
+[lof](KrAzYkAz^1E^7) ([lon]Beach Landing[lof]): ^0Engineer
+sayteam: KrAzYkAz^1E: ^0Engineer
+[lof](KrAzYkAz^1E^7) ([lon]Beach Landing[lof]): ^0Engineer
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------- Game Initialization -------
+gamename: EliteMod x1.0 beta
+gamedate: Nov  5 2019
+------------------------------------------------------------
+InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\10\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+func_timer at (3244 2212 1384) has random >= wait
+0 teams with 0 entities
+24 items registered
+-----------------------------------
+ClientConnect: 0
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 0
+ClientConnect: 1
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/blueengineer1\head\blueengineer1\c1\7\hc\100\w\0\l\0
+ClientBegin: 1
+Kill: 1022 1 58: <world> killed KrAzYkAz^1E by MOD_ZOMBIESPIRIT
+Sending heartbeat to dpmaster.deathmask.net
+Sending heartbeat to wolfmaster.s4ndmod.com
+Sending heartbeat to master.gamespy.com:27900
+Sending heartbeat to master0.gamespy.com
+Sending heartbeat to clanservers.net
+sayteam: KrAzYkAz^1E: ^0Panzer
+[lof](KrAzYkAz^1E^7) ([lon]Forward Bunker[lof]): ^0Panzer
+Kill: 0 0 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+Kill: 0 1 15: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_LUGER
+sayteam: KrAzYkAz^1E: ^0Panzer
+[lof](KrAzYkAz^1E^7) ([lon]Beach Landing[lof]): ^0Panzer
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+Kill: 1 0 6: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ROCKET
+Kill: 1 1 7: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ROCKET_SPLASH
+Sending heartbeat to dpmaster.deathmask.net
+Sending heartbeat to wolfmaster.s4ndmod.com
+Sending heartbeat to master.gamespy.com:27900
+Sending heartbeat to master0.gamespy.com
+Sending heartbeat to clanservers.net
+Kill: 0 0 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+Kill: 1 1 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+red:-5  blue:-6
+score: -5  ping: 1  client: 0 KrAzYkAz^1E
+score: -6  ping: 0  client: 1 KrAzYkAz^1E
+Sending gameCompleteStatus to dpmaster.deathmask.net
+Sending gameCompleteStatus to wolfmaster.s4ndmod.com
+Sending gameCompleteStatus to master.gamespy.com:27900
+Sending gameCompleteStatus to master0.gamespy.com
+Sending gameCompleteStatus to clanservers.net
+ExitLevel: executed
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------- Game Initialization -------
+gamename: EliteMod x1.0 beta
+gamedate: Nov  5 2019
+------------------------------------------------------------
+InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\10\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+func_timer at (3244 2212 1384) has random >= wait
+0 teams with 0 entities
+24 items registered
+-----------------------------------
+broadcast: print "Server: timelimit changed to 10.000000\n"
+ClientConnect: 0
+ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 0
+ClientConnect: 1
+ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+ClientBegin: 1
+broadcast: print "^0KrAzYkAz^1E^7 disconnected\n"
+ClientDisconnect: 1
+broadcast: print "^0KrAzYkAz^1E^7 disconnected\n"
+ClientDisconnect: 0
+Sending heartbeat to dpmaster.deathmask.net
+Sending heartbeat to wolfmaster.s4ndmod.com
+Sending heartbeat to master.gamespy.com:27900
+Sending heartbeat to master0.gamespy.com
+Sending heartbeat to clanservers.net
+----- Server Shutdown -----
+Sending heartbeat to dpmaster.deathmask.net
+Sending heartbeat to wolfmaster.s4ndmod.com
+Sending heartbeat to master.gamespy.com:27900
+Sending heartbeat to master0.gamespy.com
+Sending heartbeat to clanservers.net
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+---------------------------

@@ -1,0 +1,117 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_medicChargeTime\45000\g_engineerChargeTime\30000\g_LTChargeTime\40000\g_soldierChargeTime\20000\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\sv_privateClients\0\mapname\mp_beach\protocol\60\g_gameskill\3\g_gametype\6\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_maxGameClients\0\sv_maxclients\20\timelimit\25\g_antilag\1\g_voteFlags\255\g_maxlives\0\g_friendlyFire\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\25000\sv_hostname\RtcwPro-OSPx Testing Server\g_redlimbotime\30000\g_bluelimbotime\30000
+  0:26 ClientConnect: 0
+  0:26 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:29 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:29 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:29 ClientBegin: 0
+  0:35 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  0:35 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluemedic1\head\bluemedic1\c1\7\hc\100\w\0\l\0
+  0:35 ClientBegin: 0
+  1:06 ClientDisconnect: 0
+  2:38 ShutdownGame:
+  2:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\25\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_medicChargeTime\45000\g_engineerChargeTime\30000\g_LTChargeTime\40000\g_soldierChargeTime\20000\sv_privateClients\0\g_gametype\6\g_maxGameClients\0\sv_maxclients\20\timelimit\25\g_antilag\1\g_voteFlags\255\g_maxlives\0\g_friendlyFire\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\25000\sv_hostname\RtcwPro-OSPx Testing Server\g_redlimbotime\40000\g_bluelimbotime\30000
+  0:21 ClientConnect: 0
+  0:21 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:24 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:24 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:24 ClientBegin: 0
+  0:47 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  0:47 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluemedic1\head\bluemedic1\c1\7\hc\100\w\0\l\0
+  0:47 ClientBegin: 0
+  1:44 ClientDisconnect: 0
+  1:46 ShutdownGame:
+  1:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\25\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+  0:15 ClientConnect: 0
+  0:15 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:18 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:18 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:18 ClientBegin: 0
+  0:22 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:22 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redmedic1\head\redmedic1\c1\7\hc\100\w\0\l\0
+  0:22 ClientBegin: 0
+  0:39 Kill: 0 0 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+  0:39 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redmedic1\head\redmedic1\c1\7\hc\100\w\0\l\0
+  0:39 ClientBegin: 0
+  1:00 ClientDisconnect: 0
+  1:03 ShutdownGame:
+  1:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_medicChargeTime\45000\g_engineerChargeTime\30000\g_LTChargeTime\40000\g_soldierChargeTime\20000\sv_privateClients\0\g_gametype\6\g_maxGameClients\0\sv_maxclients\20\timelimit\25\g_antilag\1\g_voteFlags\255\g_maxlives\0\g_friendlyFire\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\25000\sv_hostname\RtcwPro-OSPx Testing Server\g_redlimbotime\40000\g_bluelimbotime\30000
+  0:23 ClientConnect: 0
+  0:23 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:26 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:26 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:26 ClientBegin: 0
+  0:30 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  0:30 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\2\model\multi/bluemedic1\head\bluemedic1\c1\7\hc\100\w\0\l\0
+  0:30 ClientBegin: 0
+  1:24 ClientDisconnect: 0
+  1:30 ShutdownGame:
+  1:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\25\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+  0:28 ClientConnect: 0
+  0:28 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:32 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:32 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:32 ClientBegin: 0
+  0:39 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  0:39 ClientBegin: 0
+  1:12 ClientConnect: 1
+  1:12 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  1:16 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  1:16 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\3\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  1:16 ClientBegin: 1
+  1:27 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  1:27 ClientBegin: 1
+  1:44 sayteam: KrAzYkAz^1E: ^0Engineer
+  1:44 sayteam: KrAzYkAz^1E: ^0Engineer
+  1:49 ShutdownGame:
+  1:49 ------------------------------------------------------------
+  1:49 ------------------------------------------------------------
+  1:49 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\10\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+  1:49 ClientConnect: 0
+  1:49 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+  1:49 ClientBegin: 0
+  1:49 ClientConnect: 1
+  1:49 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  1:49 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/blueengineer1\head\blueengineer1\c1\7\hc\100\w\0\l\0
+  1:49 ClientBegin: 1
+  2:24 Kill: 1022 1 58: <world> killed KrAzYkAz^1E by MOD_ZOMBIESPIRIT
+  6:33 sayteam: KrAzYkAz^1E: ^0Panzer
+  6:37 Kill: 0 0 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+  8:00 Kill: 0 1 15: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_LUGER
+  9:08 sayteam: KrAzYkAz^1E: ^0Panzer
+  9:30 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+  9:38 Kill: 1 0 6: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ROCKET
+  9:38 Kill: 1 1 7: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ROCKET_SPLASH
+ 10:34 Kill: 0 0 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+ 10:40 Kill: 1 1 56: KrAzYkAz^1E killed KrAzYkAz^1E by MOD_ZOMBIESPIT
+ 11:49 Exit: Timelimit hit.
+ 11:49 red:-5  blue:-6
+ 11:49 score: -5  ping: 1  client: 0 KrAzYkAz^1E
+ 11:49 score: -6  ping: 0  client: 1 KrAzYkAz^1E
+ 11:59 ExitLevel: executed
+ 11:59 ShutdownGame:
+ 11:59 ------------------------------------------------------------
+ 11:59 ------------------------------------------------------------
+ 11:59 InitGame: \g_enableBreath\1\gamename\EliteMod x1.0 beta\Client\RtcwPro-OSPx\Mod\Server running ^7RtcwPro-OSPx\g_alliedmaxlives\0\g_axismaxlives\0\g_minGameClients\8\sv_allowAnonymous\0\mapname\mp_beach\protocol\60\g_gameskill\3\version\Wolf 1.41b-MP win-x86-debug Nov 13 2019\g_bluelimbotime\30000\g_redlimbotime\40000\sv_hostname\RtcwPro-OSPx Testing Server\sv_maxRate\25000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\g_friendlyFire\1\g_maxlives\0\g_voteFlags\255\g_antilag\1\timelimit\10\sv_maxclients\20\g_maxGameClients\0\g_gametype\6\sv_privateClients\0\g_soldierChargeTime\20000\g_LTChargeTime\40000\g_engineerChargeTime\30000\g_medicChargeTime\45000
+ 11:59 ClientConnect: 0
+ 11:59 ClientUserinfoChanged: 0 n\KrAzYkAz^1E\t\1\model\multi_axis/redsoldier1\head\redsoldier1\c1\7\hc\100\w\0\l\0
+ 11:59 ClientBegin: 0
+ 11:59 ClientConnect: 1
+ 11:59 ClientUserinfoChanged: 1 n\KrAzYkAz^1E\t\2\model\multi/bluesoldier1\head\bluesoldier1\c1\7\hc\100\w\0\l\0
+ 11:59 ClientBegin: 1
+ 12:24 ClientDisconnect: 1
+ 12:28 ClientDisconnect: 0
+ 12:30 ShutdownGame:
+ 12:30 ------------------------------------------------------------

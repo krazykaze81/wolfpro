@@ -1,0 +1,83 @@
+﻿  jcapimin.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  jdcoefct.c
+  Generating Code...
+  Compiling...
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\basetsd.h(77): warning C4142: 'INT32': benign redefinition of type
+  c:\users\michael\documents\github\rtcw-pro\src\jpeg-6\jmorecfg.h(152): note: see declaration of 'INT32'
+  jfdctflt.c
+  jidctflt.c
+  jmemmgr.c
+  jmemnobs.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\basetsd.h(77): warning C4142: 'INT32': benign redefinition of type
+  c:\users\michael\documents\github\rtcw-pro\src\jpeg-6\jmorecfg.h(152): note: see declaration of 'INT32'
+  jutils.c
+  win_gamma.c
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\michael\documents\github\rtcw-pro\src\win32\win_gamma.c(153): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  win_glimp.c
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\michael\documents\github\rtcw-pro\src\win32\win_glimp.c(1045): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  win_qgl.c
+  tr_animation.c
+  Generating Code...
+  Compiling...
+  tr_backend.c
+  tr_bsp.c
+  tr_cmds.c
+  tr_cmesh.c
+  tr_curve.c
+  tr_flares.c
+  tr_font.c
+  tr_image.c
+c:\users\michael\documents\github\rtcw-pro\src\jpeg-6\jmorecfg.h(152): warning C4142: 'INT32': benign redefinition of type
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\basetsd.h(77): note: see declaration of 'INT32'
+  tr_init.c
+  tr_light.c
+  tr_main.c
+  tr_marks.c
+  tr_mesh.c
+  tr_model.c
+  tr_noise.c
+  tr_scene.c
+  tr_shade.c
+  tr_shader.c
+  tr_shade_calc.c
+  tr_shadows.c
+  Generating Code...
+  Compiling...
+  tr_sky.c
+  tr_surface.c
+  tr_world.c
+  Generating Code...
+  renderer.vcxproj -> C:\Users\Michael\Documents\GitHub\RtCW-Pro\src\renderer\.\Debug\renderer.lib

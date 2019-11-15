@@ -1,0 +1,12 @@
+﻿  ui_atoms.c
+  ui_gameinfo.c
+  ui_main.c
+  ui_players.c
+  ui_shared.c
+  ui_syscalls.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\Michael\Documents\GitHub\wolfpro\ui\.\Debug\ui.dll) does not match the Linker's OutputFile property value (C:\Users\Michael\Documents\GitHub\wolfpro\Debug\ui_mp_x86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(ui) does not match the Linker's OutputFile property value (ui_mp_x86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+bg_misc.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library .\Debug/ui_mp_x86.lib and object .\Debug/ui_mp_x86.exp
+  ui.vcxproj -> C:\Users\Michael\Documents\GitHub\wolfpro\ui\.\Debug\ui.dll

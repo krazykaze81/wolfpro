@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.db
+*.opendb
+*.ipch
+*.db-shm
+*.db-wal
+.vs/OSPx/v15/.suo
